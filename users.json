@@ -1,12 +1,12 @@
 [
   {
-    "username": "admin",
-    "password": "1234",
+    "username": "Wicenta",
+    "password": "6134",
     "admin": true
   },
   {
-    "username": "user1",
-    "password": "abcd",
+    "username": "Önder",
+    "password": "1453",
     "admin": false
   }
 ]
